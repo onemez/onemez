@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onemez
-- 👀 I’m interested in ... Infrastructure As Code, Automation and DevOps
+- 👀 I’m interested in ... All things AI, Infrastructure As Code, DevOps and Automation
 - 🌱 I’m currently learning ... Azure DevOps and GitHub Enterprise, Azure AI, Powershell Toolmaking, and Python
 - 💞️ I’m looking to collaborate on ... anything cool that involves scripting, automation or AI
 
